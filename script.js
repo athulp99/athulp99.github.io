@@ -56,14 +56,14 @@
 const messages = [
     "Are you sure?",
     "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Are you positive? dbi bro",
+    "SMISKI please... think again",
+    "If i asked you to be my valentine , would your answer be the same as the answer to this question? DEEP IT",
+    "If you say no, I will be nonchalant about it icl...",
+    "I will kidnap you...",
+    "Is this just becuase i'm not here...",
+    "Ok fine, I will stop asking...❤️",
+    "you don't get a choice anymore DPMO"
 ];
 
 let messageIndex = 0;
